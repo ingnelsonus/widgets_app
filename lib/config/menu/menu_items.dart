@@ -38,5 +38,17 @@ class MenuItem {
       subTitle: 'Indicadores en pantalla',
       link: '/snackbars',
       icon: Icons.info_outline
+      ),
+      MenuItem(
+      title: 'Animated container',
+      subTitle: 'Statefull widget animated',
+      link: '/animated',
+      icon: Icons.check_box_outline_blank_rounded
+      ),
+      MenuItem(
+      title: 'UI controls + tiles',
+      subTitle: 'Controles en flutter',
+      link: '/ui-controls',
+      icon: Icons.car_rental_outlined
       )
   ];

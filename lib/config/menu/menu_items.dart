@@ -50,5 +50,11 @@ class MenuItem {
       subTitle: 'Controles en flutter',
       link: '/ui-controls',
       icon: Icons.car_rental_outlined
+      ),
+      MenuItem(
+      title: 'App Tutorial',
+      subTitle: 'shorpt app tutorial',
+      link: '/tutorial',
+      icon: Icons.accessible_rounded
       )
   ];

@@ -62,5 +62,17 @@ class MenuItem {
       subTitle: 'Infinite scroll and pull to refresh',
       link: '/infinite',
       icon: Icons.list_alt_rounded
+      ),
+      MenuItem(
+      title: 'Counter screen',
+      subTitle: 'other state provider Riverpod',
+      link: '/counters',
+      icon: Icons.add
+      ),
+      MenuItem(
+      title: 'Theme screen changer',
+      subTitle: 'Changer theme with Riverpod state',
+      link: '/theme-changer',
+      icon: Icons.change_circle_outlined
       )
   ];
